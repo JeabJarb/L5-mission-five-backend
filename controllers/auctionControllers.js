@@ -1,4 +1,5 @@
 const AuctionItem = require('../models/auctionItems');
+const connectToDB = require('../db/db');
 
 exports.getAllItems = async (req, res) => {
   try {
@@ -55,5 +56,47 @@ exports.deleteItem = async (req, res) => {
     }
   } catch (err) {
     res.status(500).json({ message: 'Error deleting item' });
+  }
+};
+
+
+
+exports.postSearch = async (req, res) => {
+  console.log('/api/auctions/search/');
+  await connectToDB();
+  try {
+    const { input, category } = req.body;
+    console.log(`Received input: ${input}, category: ${category}`); // Debugging line
+
+    const searchCriteria = {
+      $or: [
+        { name: { $regex: input, $options: 'i' } },
+        { description: { $regex: input, $options: 'i' } },
+        { 'project_details.manufacturer.brand': { $regex: input, $options: 'i' } },
+        { 'project_details.manufacturer.make': { $regex: input, $options: 'i' } },
+        { 'project_details.manufacturer.model': { $regex: input, $options: 'i' } }
+      ]
+    };
+
+    if (category) {
+      searchCriteria.$or = [
+        { 'project_details.manufacturer.brand': { $regex: category, $options: 'i' } },
+        { 'project_details.manufacturer.make': { $regex: category, $options: 'i' } }
+      ];
+    }
+
+    console.log('Search criteria:', searchCriteria); // Debugging line
+
+    const auctions = await AuctionItem.find(searchCriteria).maxTimeMS(10000);
+    console.log('Auctions found:', auctions); // Debugging line
+
+    if (auctions.length > 0) {
+      res.json({ results: auctions });
+    } else {
+      res.status(404).json({ message: 'No auctions found with the given criteria.' });
+    }
+  } catch (error) {
+    console.error('Error searching for auctions:', error); // Debugging line
+    res.status(500).json({ message: 'Error searching for auctions', error });
   }
 };
