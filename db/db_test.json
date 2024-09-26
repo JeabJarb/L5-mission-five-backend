@@ -14,6 +14,7 @@
     "user_product_listings": [
       {
         "name": "Vintage Wooden Chair",
+        "listing_id": 12985470,
         "image": [
           "https://trademe.tmcdn.co.nz/photoserver/plus/2137997757.jpg",
           "https://trademe.tmcdn.co.nz/photoserver/plus/2137997761.jpg",
@@ -48,10 +49,11 @@
       },
       {
         "name": "Retro Leather Sofa",
+        "listing_id": 12523452,
         "image": [
-          "https://trademe.tmcdn.co.nz/photoserver/plus/2137997757.jpg",
-          "https://trademe.tmcdn.co.nz/photoserver/plus/2137997761.jpg",
-          "https://trademe.tmcdn.co.nz/photoserver/plus/2137997764.jpg"
+          "https://trademe.tmcdn.co.nz/photoserver/1024sq/2126797088.jpg",
+          "https://trademe.tmcdn.co.nz/photoserver/1024sq/2126797095.jpg",
+          "https://trademe.tmcdn.co.nz/photoserver/1024sq/2126797101.jpg"
         ],
         "start_bid": 200,
         "current_bid": 250,

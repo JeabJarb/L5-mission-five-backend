@@ -1,8 +1,9 @@
-const Item = require("../models/ProductListingItem");
+const Item = require("../models/productListingItem");
 
 const getProductListingItems = async (req, res) => {
   try {
-    const items = await Item.find();
+    const { ids } = req.body;
+    const items = await Item.find({ _id: { $in: ids } });
     res.status(200).json(items);
   } catch (error) {
     res
@@ -11,4 +12,4 @@ const getProductListingItems = async (req, res) => {
   }
 };
 
-module.exports = getProductListingItems;
+module.exports = { getProductListingItems, };

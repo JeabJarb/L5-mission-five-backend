@@ -15,6 +15,7 @@ const productListingSchema = new mongoose.Schema({
   user_product_listings: [
     {
       name: String,
+      listing_id: Number,
       image: [String],
       start_bid: Number,
       current_bid: Number,
