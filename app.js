@@ -5,7 +5,7 @@ require("dotenv").config();
 const auctionRoutes = require("./routes/auctionRoutes");
 const watchlistRoutes = require("./routes/watchlistRoutes");
 const compareRoutes = require("./routes/compareRoutes");
-// const productListingRoutes = require("./routes/productlistingRoutes");
+const productListingRoutes = require("./routes/productlistingRoutes");
 
 const app = express();
 
@@ -35,7 +35,7 @@ app.get("/", (req, res) => {
 app.use("/api/auctions", auctionRoutes);
 app.use("/api/watchlist", watchlistRoutes);
 app.use("/api/compare", compareRoutes);
-// app.use("/api/product-listing", productListingRoutes);
+app.use("/api/product-listing", productListingRoutes);
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () =>
