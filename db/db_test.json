@@ -1,0 +1,85 @@
+[
+  {
+    "username": "John69",
+    "user_avatar": "",
+    "user_location": {
+      "area": "Auckland City",
+      "city": "Auckland"
+    },
+    "user_signup": "22 July 2016",
+    "user_feedback": {
+      "review": "",
+      "feedback_rating": "100%"
+    },
+    "user_product_listings": [
+      {
+        "name": "Vintage Wooden Chair",
+        "image": [
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137997757.jpg",
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137997761.jpg",
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137997764.jpg"
+        ],
+        "start_bid": 50,
+        "current_bid": 75,
+        "buy_now": 150,
+        "closingDate": "28 Sep 2024",
+        "product_details": {
+          "condition": "Used",
+          "colour": "Brown",
+          "item_length": 45,
+          "item_width": 40,
+          "item_height": 85,
+          "item_weight": 10,
+          "material": "Wood",
+          "features": "Handcrafted, Lightweight",
+          "manufacturer": {
+            "brand": "Home & Living Antique Designs",
+            "make": "Classic Chair",
+            "model": "AD200"
+          },
+          "year_made": 1950
+        },
+        "shipping": {
+          "shipping": "Standard Shipping (5-7 days)",
+          "returns": "Returns accepted within 14 days",
+          "payment": "Credit Card, PayPal"
+        },
+        "description": "A beautiful vintage wooden chair, handcrafted with intricate designs. Perfect for collectors or those looking to add a rustic touch to their decor."
+      },
+      {
+        "name": "Retro Leather Sofa",
+        "image": [
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137997757.jpg",
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137997761.jpg",
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137997764.jpg"
+        ],
+        "start_bid": 200,
+        "current_bid": 250,
+        "buy_now": 500,
+        "closingDate": "28 Sep 2024",
+        "product_details": {
+          "condition": "Used",
+          "colour": "Black",
+          "item_length": 180,
+          "item_width": 80,
+          "item_height": 70,
+          "item_weight": 50,
+          "material": "Leather",
+          "features": "Comfortable, Durable",
+          "manufacturer": {
+            "brand": "Home & Living Retro Designs",
+            "make": "Classic Sofa",
+            "model": "RS500"
+          },
+          "year_made": 1970
+        },
+        "shipping": {
+          "shipping": "Standard Shipping (5-7 days)",
+          "returns": "Returns accepted within 14 days",
+          "payment": "Credit Card, PayPal"
+        },
+        "description": "A retro leather sofa that is both comfortable and stylish. Perfect for a vintage-inspired living room or office space."
+      }
+    ]
+  }
+]

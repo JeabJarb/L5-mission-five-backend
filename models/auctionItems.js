@@ -6,7 +6,7 @@ const auctionItemSchema = new mongoose.Schema({
   start_bid: Number,
   current_bid: Number,
   buy_now: Number,
-  project_details: {
+  product_details: {
     condition: String,
     colour: String,
     item_length: Number,
