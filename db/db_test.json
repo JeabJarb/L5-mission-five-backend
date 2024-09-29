@@ -81,6 +81,321 @@
           "payment": "Credit Card, PayPal"
         },
         "description": "A retro leather sofa that is both comfortable and stylish. Perfect for a vintage-inspired living room or office space."
+      },
+      {
+        "name": "Antique Oak Dining Table",
+        "listing_id": 13487655,
+        "image": [
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137998001.jpg",
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137998002.jpg",
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137998003.jpg"
+        ],
+        "start_bid": 100,
+        "current_bid": 150,
+        "buy_now": 300,
+        "closingDate": "29 Sep 2024",
+        "product_details": {
+          "condition": "Used",
+          "colour": "Natural",
+          "item_length": 180,
+          "item_width": 90,
+          "item_height": 75,
+          "item_weight": 75,
+          "material": "Oak",
+          "features": "Sturdy, Timeless Design",
+          "manufacturer": {
+            "brand": "Heritage Furniture",
+            "make": "Classic Table",
+            "model": "OT300"
+          },
+          "year_made": 1945
+        },
+        "shipping": {
+          "shipping": "Standard Shipping (7-10 days)",
+          "returns": "Returns accepted within 14 days",
+          "payment": "Credit Card, PayPal"
+        },
+        "description": "A beautiful antique oak dining table, perfect for family gatherings and dinner parties."
+      },
+      {
+        "name": "Vintage Floor Lamp",
+        "listing_id": 12835423,
+        "image": [
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137999001.jpg",
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137999002.jpg",
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137999003.jpg"
+        ],
+        "start_bid": 40,
+        "current_bid": 65,
+        "buy_now": 120,
+        "closingDate": "29 Sep 2024",
+        "product_details": {
+          "condition": "Used",
+          "colour": "Brass",
+          "item_length": 30,
+          "item_width": 30,
+          "item_height": 160,
+          "item_weight": 8,
+          "material": "Metal",
+          "features": "Elegant, Adjustable Height",
+          "manufacturer": {
+            "brand": "Luxe Lighting",
+            "make": "Classic Lamp",
+            "model": "FL100"
+          },
+          "year_made": 1965
+        },
+        "shipping": {
+          "shipping": "Standard Shipping (5-7 days)",
+          "returns": "Returns accepted within 14 days",
+          "payment": "Credit Card, PayPal"
+        },
+        "description": "An elegant vintage floor lamp with adjustable height. Perfect for adding a warm glow to any room."
+      },
+      {
+        "name": "Retro Coffee Table",
+        "listing_id": 12345678,
+        "image": [
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137995001.jpg",
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137995002.jpg",
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137995003.jpg"
+        ],
+        "start_bid": 80,
+        "current_bid": 100,
+        "buy_now": 180,
+        "closingDate": "29 Sep 2024",
+        "product_details": {
+          "condition": "Used",
+          "colour": "Teak",
+          "item_length": 120,
+          "item_width": 60,
+          "item_height": 45,
+          "item_weight": 20,
+          "material": "Wood",
+          "features": "Stylish, Easy to Clean",
+          "manufacturer": {
+            "brand": "Mid-Century Designs",
+            "make": "Retro Table",
+            "model": "CT150"
+          },
+          "year_made": 1975
+        },
+        "shipping": {
+          "shipping": "Standard Shipping (5-7 days)",
+          "returns": "Returns accepted within 14 days",
+          "payment": "Credit Card, PayPal"
+        },
+        "description": "A stylish retro coffee table made from teak wood. Perfect for your living room or office."
+      },
+      {
+        "name": "Classic Bookshelf",
+        "listing_id": 13423456,
+        "image": [
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137996001.jpg",
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137996002.jpg",
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137996003.jpg"
+        ],
+        "start_bid": 70,
+        "current_bid": 90,
+        "buy_now": 160,
+        "closingDate": "29 Sep 2024",
+        "product_details": {
+          "condition": "Used",
+          "colour": "Dark Brown",
+          "item_length": 80,
+          "item_width": 30,
+          "item_height": 200,
+          "item_weight": 30,
+          "material": "Wood",
+          "features": "Spacious, Sturdy",
+          "manufacturer": {
+            "brand": "Home & Living",
+            "make": "Classic Bookshelf",
+            "model": "BS300"
+          },
+          "year_made": 1985
+        },
+        "shipping": {
+          "shipping": "Standard Shipping (5-7 days)",
+          "returns": "Returns accepted within 14 days",
+          "payment": "Credit Card, PayPal"
+        },
+        "description": "A classic wooden bookshelf that provides ample space for your books and decorative items."
+      },
+      {
+        "name": "Industrial Style Side Table",
+        "listing_id": 13567890,
+        "image": [
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137997001.jpg",
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137997002.jpg",
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137997003.jpg"
+        ],
+        "start_bid": 60,
+        "current_bid": 85,
+        "buy_now": 140,
+        "closingDate": "29 Sep 2024",
+        "product_details": {
+          "condition": "Used",
+          "colour": "Black",
+          "item_length": 50,
+          "item_width": 50,
+          "item_height": 55,
+          "item_weight": 12,
+          "material": "Metal and Wood",
+          "features": "Durable, Stylish",
+          "manufacturer": {
+            "brand": "Urban Living",
+            "make": "Industrial Table",
+            "model": "IST100"
+          },
+          "year_made": 2010
+        },
+        "shipping": {
+          "shipping": "Standard Shipping (5-7 days)",
+          "returns": "Returns accepted within 14 days",
+          "payment": "Credit Card, PayPal"
+        },
+        "description": "A stylish industrial-style side table, perfect for adding a modern touch to any room."
+      },
+      {
+        "name": "Mid-Century Modern Cabinet",
+        "listing_id": 13654321,
+        "image": [
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137998004.jpg",
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137998005.jpg",
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137998006.jpg"
+        ],
+        "start_bid": 150,
+        "current_bid": 200,
+        "buy_now": 400,
+        "closingDate": "29 Sep 2024",
+        "product_details": {
+          "condition": "Used",
+          "colour": "Walnut",
+          "item_length": 120,
+          "item_width": 45,
+          "item_height": 90,
+          "item_weight": 40,
+          "material": "Wood",
+          "features": "Stylish, Functional",
+          "manufacturer": {
+            "brand": "Classic Home",
+            "make": "Mid-Century Cabinet",
+            "model": "MCC200"
+          },
+          "year_made": 1960
+        },
+        "shipping": {
+          "shipping": "Standard Shipping (5-7 days)",
+          "returns": "Returns accepted within 14 days",
+          "payment": "Credit Card, PayPal"
+        },
+        "description": "A mid-century modern cabinet, perfect for storage and displaying your favorite items."
+      },
+      {
+        "name": "Classic Wooden Rocking Chair",
+        "listing_id": 13789012,
+        "image": [
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137998007.jpg",
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137998008.jpg",
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137998009.jpg"
+        ],
+        "start_bid": 55,
+        "current_bid": 80,
+        "buy_now": 130,
+        "closingDate": "29 Sep 2024",
+        "product_details": {
+          "condition": "Used",
+          "colour": "Natural",
+          "item_length": 75,
+          "item_width": 60,
+          "item_height": 100,
+          "item_weight": 15,
+          "material": "Wood",
+          "features": "Comfortable, Relaxing",
+          "manufacturer": {
+            "brand": "Heritage Rockers",
+            "make": "Classic Rocker",
+            "model": "RC100"
+          },
+          "year_made": 1985
+        },
+        "shipping": {
+          "shipping": "Standard Shipping (5-7 days)",
+          "returns": "Returns accepted within 14 days",
+          "payment": "Credit Card, PayPal"
+        },
+        "description": "A classic wooden rocking chair, perfect for relaxation and adding charm to any room."
+      },
+      {
+        "name": "Vintage Trunk Coffee Table",
+        "listing_id": 13876543,
+        "image": [
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137998010.jpg",
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137998011.jpg",
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137998012.jpg"
+        ],
+        "start_bid": 90,
+        "current_bid": 120,
+        "buy_now": 200,
+        "closingDate": "29 Sep 2024",
+        "product_details": {
+          "condition": "Used",
+          "colour": "Brown",
+          "item_length": 100,
+          "item_width": 60,
+          "item_height": 45,
+          "item_weight": 30,
+          "material": "Wood",
+          "features": "Storage, Unique Design",
+          "manufacturer": {
+            "brand": "Timeless Decor",
+            "make": "Vintage Trunk",
+            "model": "CT200"
+          },
+          "year_made": 1960
+        },
+        "shipping": {
+          "shipping": "Standard Shipping (5-7 days)",
+          "returns": "Returns accepted within 14 days",
+          "payment": "Credit Card, PayPal"
+        },
+        "description": "A unique vintage trunk coffee table that offers storage and style for any living space."
+      },
+      {
+        "name": "Art Deco Wall Mirror",
+        "listing_id": 13987654,
+        "image": [
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137998013.jpg",
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137998014.jpg",
+          "https://trademe.tmcdn.co.nz/photoserver/plus/2137998015.jpg"
+        ],
+        "start_bid": 70,
+        "current_bid": 95,
+        "buy_now": 150,
+        "closingDate": "29 Sep 2024",
+        "product_details": {
+          "condition": "Used",
+          "colour": "Gold",
+          "item_length": 60,
+          "item_width": 3,
+          "item_height": 90,
+          "item_weight": 5,
+          "material": "Glass and Metal",
+          "features": "Elegant, Decorative",
+          "manufacturer": {
+            "brand": "Timeless Elegance",
+            "make": "Art Deco Mirror",
+            "model": "ADM100"
+          },
+          "year_made": 1930
+        },
+        "shipping": {
+          "shipping": "Standard Shipping (5-7 days)",
+          "returns": "Returns accepted within 14 days",
+          "payment": "Credit Card, PayPal"
+        },
+        "description": "An elegant art deco wall mirror that adds a touch of sophistication to any room."
       }
     ]
   }
