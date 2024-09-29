@@ -35,7 +35,7 @@ app.get("/", (req, res) => {
 app.use("/api/auctions", auctionRoutes);
 app.use("/api/watchlist", watchlistRoutes);
 app.use("/api/compare", compareRoutes);
-app.use("/api/product-listing", productListingRoutes);
+app.use("/api/products", productListingRoutes);
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () =>
